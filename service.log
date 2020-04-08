@@ -1,0 +1,73 @@
+These Windows services are started:
+
+   ##Id_String1.6844F930_1628_4223_B5CC_5BB94B879762##
+   Adobe Acrobat Update Service
+   AMD External Events Utility
+   Application Experience
+   Background Intelligent Transfer Service
+   Base Filtering Engine
+   Blackberry Device Manager
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Desktop Window Manager Session Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+   Gammu SMSD Service (GammuSMSD)
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Microsoft Antimalware Service
+   Microsoft Network Inspection
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NMIndexingService
+   Office Software Protection Platform
+   Offline Files
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Protexis Licensing V2
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Telephony
+   Themes
+   UDisk Monitor
+   User Profile Service
+   vToolbarUpdater17.3.0
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Search
+   Windows Update
+   Workstation
+   Yahoo! Updater
+
+The command completed successfully.
+
